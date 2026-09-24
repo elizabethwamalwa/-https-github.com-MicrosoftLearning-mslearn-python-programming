@@ -3,9 +3,7 @@
 #
 # Install once:  pip install rich
 # Run:           python animated_intro.py
-#
-# To turn this into a GIF/SVG for your GitHub README, see the notes
-# at the very bottom of this file.
+
 
 import time
 from rich.console import Console
